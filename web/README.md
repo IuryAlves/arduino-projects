@@ -32,7 +32,10 @@ projeto que pega o dado passado em um input de um formulário web e mostra em um
 
 <h4>  Instalação </h4>
 
+Se voce tem o pip(python install package) instalado em seu computador, voce pode instalar as dependencias assim:
 
+<code> sudo pip install flask </code> <br>
+<code> sudo pip install pySerial </code>
 
 
 
