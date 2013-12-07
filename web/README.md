@@ -38,7 +38,12 @@ Se voce tem o pip(python install package) instalado em seu computador, voce pode
 <code> sudo pip install pySerial </code>
 
 
+<h4> Esquema na arduino </h4>
 
+<h5> a posição dos fios que devem ser ligados na arduino e no display
+estão na imagem abaixo </h5>
+
+<img src="display-esquema.png" >
 
 
 
