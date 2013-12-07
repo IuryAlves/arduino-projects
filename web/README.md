@@ -43,7 +43,7 @@ Se voce tem o pip(python install package) instalado em seu computador, voce pode
 <h5> a posição dos fios que devem ser ligados na arduino e no display
 estão na imagem abaixo </h5>
 
-<img src="display-esquema.png" >
+<img src="display-esquema .png" >
 
 
 
