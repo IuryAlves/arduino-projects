@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/style.css')}}"> 
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/semantic/packaged/css/semantic.min.css')}}">
+	</head>
+	<body>
+		<h1 class="ui black header">
+  		Me envie uma mensagem :)
+		</h1>
+		<div class="line"></div>
+
+		<form action="cadastro" method="POST">
+			<div class="ui huge input">
+  			<input type="text" name="msg" placeholder="mensagem..." required >  
+			</div>
+			<input class="ui teal huge button" id="form" type="submit" value="enviar">
+			<input class="ui red huge button" id="buttonClear" type="submit" value="limpar">
+		</form>
+		<!--
+		<script type="text/javascript">
+
+		function clear(){
+			var el = document.getElementByName("msg");
+			var element = el[0];
+			el.value = "";
+		}
+
+		var buttonClear = document.getElementById("buttonClear");
+		buttonClear.click(function (){
+			clear();
+		});
+		</script>
+	-->	
+	</body>
+</html>

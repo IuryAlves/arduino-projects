@@ -1,0 +1,45 @@
+body{
+    background-image: url('../images/dust.png');
+}
+
+
+.ui.action.input{
+    top: 40px;
+    left: 100px;
+    width: 1000px;
+}
+
+.ui.button{
+    margin-top: 20px !important;
+}
+
+.ui.red.tiny.button{
+    margin-right: -90px !important;
+    margin-top: 20px !important;
+}
+ui.green.tiny.button{
+    margin-right: -90px;
+}
+
+.ui.vertical.labeled.icon.menu{
+    margin-top: 40px;
+}
+
+.ui.basic.table{
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 1200px;
+}
+
+.ui.fluid.form.segment{
+    width: 1000px;
+    left: 265px;
+    bottom: 170px;
+}
+.lastTableItem{
+    margin-right: 100px !important;
+}
+#lastItem{
+    margin-left: 900px !important;
+}
+

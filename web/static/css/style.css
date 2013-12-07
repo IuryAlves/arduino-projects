@@ -1,0 +1,21 @@
+
+body{
+	background-image: url("../images/dust.png");
+}
+
+.line{
+	width: 100%;
+	height: 1px;
+	background-color: #DCDCDC;
+	margin-top: 50px !important;
+}
+
+.ui.huge.input{
+	margin-top: 100px;
+	margin-left: 50px;
+	width: 70%;
+}
+.ui.black.header{
+	margin-left: 400px;
+	margin-top: 50px !important;
+}
