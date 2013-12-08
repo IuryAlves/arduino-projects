@@ -60,7 +60,7 @@ No programa em python a porta está definida como: <code> /dev/ttyACM2 </code> s
 Compile e passe o programa <code> web_serial_display.ino</code> para  a arduino
 
 No termimal execute o arquivo <b> web.py</b> <code> python web.py </code>
-<b> obs /b> o arduino precisa estar conectado na porta usb.
+<b> obs </b> o arduino precisa estar conectado na porta usb.
 Abra o seu navegador no endereço <code> http://127.0.0.1:5000 </code> e divirta-se! =) 
 
 <b> É provavel que ainda tenha erros, se voce quiser enviar sugestões, alertar sobre erros e problemas você pode abrir uma nova issue ou me enviar um e-mail em: iuryalves20@gmail.com
