@@ -48,7 +48,7 @@ http://sourceforge.net/projects/pyserial/files/
 <h5> a posição dos fios que devem ser ligados na arduino e no display
 estão na imagem abaixo </h5>
 
-<img src="display-esquema .png" >
+<img src="display-esquema .png">
 
 
 Ligue o cabo usb na arduino e em seu computador, na IDE da arduino veja em qual porta serial se encontra a arduino.
